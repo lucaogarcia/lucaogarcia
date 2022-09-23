@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/lucaogarcia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaogarcia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaogarcia&layout=compact&langs_count=7&theme=github_dark"/>

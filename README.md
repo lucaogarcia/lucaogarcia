@@ -2,9 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0384fc&size=35&center=true&vCenter=true&width=1000&lines=FALA+AE!,+My+name+is+Lucas+Garcia;I'm+21+years+old;I'm+Brazilian;Be+Welcome!+:D)](https://git.io/typing-svg)
 
+<img align="right" alt="Coding" width="100" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+
 - 🌱 Estudante do curso de Informática na UEM.
 - 📫 Email para contato: **lucasgarciasouza@hotmail.com**
-- 👨‍💻 Estudando C e Java.
+- 👨‍💻 Estudando Java com Spring, Python e Shellscript.
 - ⚡ Fun fact: **Amo games!**
 
 ##
@@ -16,8 +18,8 @@
 </p>
 
 ##
-<h3 align="center">Linguagens:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">Linguagens e Frameworks:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a> </a> <a href="https://pt.wikipedia.org/wiki/Bash" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 ##
 <div align="center">

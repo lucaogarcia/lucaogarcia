@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0384fc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0384fc&size=35&center=true&vCenter=true&width=1000&lines=FALA+AE!,+My+name+is+Lucas+Garcia;I'm+21+years+old;I'm+Brazilian;Be+Welcome!+:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0384fc&size=35&center=true&vCenter=true&width=1000&lines=FALA+AE!,+My+name+is+Lucas+Garcia;I'm+22+years+old;I'm+Brazilian;Be+Welcome!+:D)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="100" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 

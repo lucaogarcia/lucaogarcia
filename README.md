@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="100" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
-- 🌱 Software Engineer student at Universidade Estadual de Maringá.
+- 🌱 Master Computer Science student at Universidade Estadual de Maringá and a Graduated Software Engineer.
 - 📫 Email for contact: **lucasgarciasouza@hotmail.com**
-- 👨‍💻 Currently working with Java, Spring, React and Typescript.
+- 👨‍💻 Currently working with Node, Typescript, Docker, Kubernetes and AWS.
 - ⚡ Fun fact: **Love games!**
 
 ##

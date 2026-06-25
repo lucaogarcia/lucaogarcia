@@ -8,7 +8,8 @@
 
 <img align="right" alt="Terminal" width="100" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🎓 Computer Science Graduate Student at **Universidade Estadual de Maringá (UEM)**
+- 🎓 Software Engineer Graduated at **Universidade Estadual de Maringá (UEM)**
+- 📚 Master's student in Computer Science at **Universidade Estadual de Maringá (UEM)**
 - 🇧🇷 Brazilian
 - ☁️ Working with **DevOps, Cloud & Infra** (AWS, ECS, Kubernetes, Terraform)
 - 🔄 Dev background (Java, Spring, React) → now focused on **infrastructure & automation**
